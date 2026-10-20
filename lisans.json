@@ -1,0 +1,38 @@
+{
+  "surum": 1,
+  "guncelleme": "2026-10-20T17:29:44.264Z",
+  "cevrimdisiGun": 7,
+  "mesaj": "Lisansınız askıya alınmıştır. Lütfen Consilio ile iletişime geçin.",
+  "firmalar": {
+    "cesan": {
+      "ad": "Çesan",
+      "paket": "profesyonel",
+      "not": "",
+      "hizmetler": {
+        "vr": {
+          "aktif": true,
+          "bitis": ""
+        },
+        "konfigurasyon": {
+          "aktif": true,
+          "bitis": ""
+        }
+      }
+    },
+    "pharmachine": {
+      "ad": "Pharmachine+",
+      "paket": "standart",
+      "not": "",
+      "hizmetler": {
+        "vr": {
+          "aktif": false,
+          "bitis": ""
+        },
+        "konfigurasyon": {
+          "aktif": true,
+          "bitis": ""
+        }
+      }
+    }
+  }
+}
