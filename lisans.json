@@ -1,6 +1,6 @@
 {
-  "surum": 4,
-  "guncelleme": "2026-10-20T19:09:57.405Z",
+  "surum": 5,
+  "guncelleme": "2026-10-20T22:58:52.110Z",
   "cevrimdisiGun": 7,
   "mesaj": "Lisansınız askıya alınmıştır. Lütfen Consilio ile iletişime geçin.",
   "firmalar": {
@@ -11,21 +11,6 @@
       "hizmetler": {
         "vr": {
           "aktif": true,
-          "bitis": ""
-        },
-        "konfigurasyon": {
-          "aktif": true,
-          "bitis": ""
-        }
-      }
-    },
-    "pharmachine": {
-      "ad": "Pharmachine+",
-      "paket": "standart",
-      "not": "",
-      "hizmetler": {
-        "vr": {
-          "aktif": false,
           "bitis": ""
         },
         "konfigurasyon": {
