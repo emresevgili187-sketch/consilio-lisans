@@ -1,6 +1,6 @@
 {
-  "surum": 2,
-  "guncelleme": "2026-10-20T19:06:29.879Z",
+  "surum": 3,
+  "guncelleme": "2026-10-20T19:07:11.465Z",
   "cevrimdisiGun": 7,
   "mesaj": "Lisansınız askıya alınmıştır. Lütfen Consilio ile iletişime geçin.",
   "firmalar": {
@@ -14,7 +14,7 @@
           "bitis": ""
         },
         "konfigurasyon": {
-          "aktif": false,
+          "aktif": true,
           "bitis": ""
         }
       }
