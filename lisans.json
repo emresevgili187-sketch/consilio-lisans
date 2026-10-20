@@ -1,6 +1,6 @@
 {
-  "surum": 1,
-  "guncelleme": "2026-10-20T17:29:44.264Z",
+  "surum": 2,
+  "guncelleme": "2026-10-20T19:06:29.879Z",
   "cevrimdisiGun": 7,
   "mesaj": "Lisansınız askıya alınmıştır. Lütfen Consilio ile iletişime geçin.",
   "firmalar": {
@@ -14,7 +14,7 @@
           "bitis": ""
         },
         "konfigurasyon": {
-          "aktif": true,
+          "aktif": false,
           "bitis": ""
         }
       }
@@ -26,6 +26,21 @@
       "hizmetler": {
         "vr": {
           "aktif": false,
+          "bitis": ""
+        },
+        "konfigurasyon": {
+          "aktif": true,
+          "bitis": ""
+        }
+      }
+    },
+    "hg-makina": {
+      "ad": "HG Makina",
+      "paket": "profesyonel",
+      "not": "",
+      "hizmetler": {
+        "vr": {
+          "aktif": true,
           "bitis": ""
         },
         "konfigurasyon": {
